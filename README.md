@@ -4,6 +4,10 @@
 
 This repository provides the implementation of **FE-Mamba**, a deep learning framework designed for short-term metro ridership flow prediction. The model aims to improve the prediction of passenger flow by jointly modeling sequential temporal dependencies, station-level spatial correlations, and intrinsic periodic patterns in metro ridership data.
 
+## Code Availability
+
+Our manuscript is currently under review. In accordance with standard academic practice, the full source code will be made publicly available upon acceptance of the paper. This policy helps preserve the integrity of the peer-review process while maintaining our commitment to research transparency and reproducibility.
+
 ## Overview
 
 Short-term metro ridership forecasting is important for intelligent urban rail transit operation, passenger flow management, and service scheduling. Existing graph-based or attention-based methods often depend on predefined graph structures or may struggle to preserve temporal order and periodic dynamics. FE-Mamba addresses these limitations by introducing a graph-free spatio-temporal modeling framework that combines frequency-domain enhancement with multi-scale Patch-Mamba sequence modeling.
