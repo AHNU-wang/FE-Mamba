@@ -15,7 +15,7 @@ The core idea of FE-Mamba is to capture both:
 - **Global and local dependencies** among stations and temporal segments;
 - **Multi-scale temporal dynamics** at different time resolutions.
 
-## Key Features
+## Key Contributions
 
 ### 1. Station-aware Frequency Enhancement
 
